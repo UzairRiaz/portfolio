@@ -41,8 +41,8 @@ a {
 }
 
 .section-div {
-    margin-top: 20px;
-    margin-bottom: 40px;
+    margin-top: 10vh;
+    margin-bottom: 40vh;
     justify-content: left;
     align-items: flex-start;
     display: flex;
@@ -54,7 +54,7 @@ a {
         padding: 5%;
     }
     .section-div {
-        margin-top: 20px;
-        margin-bottom: 20px;
+        margin-top: 20vh;
+        margin-bottom: 20vh;
     }
 }
