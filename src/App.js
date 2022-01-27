@@ -14,7 +14,6 @@ const App = () => {
 
   return (
     <div className="App">
-
       <Initialization />
 
       <PersonalInfo />
@@ -32,6 +31,7 @@ const App = () => {
       <Connect />
 
     </div >
+
   );
 }
 

@@ -1,7 +1,7 @@
 const fullName = "Uzair Riaz";
 const entityName = "UzairRiaz";
 const email = "uzairriaz.pk@gmail.com";
-const phone = "0300-1234567";
+const phone = "+92-324-4792576";
 const address = "Lahore, Pakistan";
 const about = "Dedicated and efficient full stack developer with 2+ years experience in application layers, presentation layers, and databases.";
 const skills = [
@@ -32,11 +32,11 @@ const experience = [
 ];
 const education = [
     {
-        institute: "University of Karachi",
-        degree: "Bachelor of Engineering",
+        institute: "University of The Punjab",
+        degree: "Bachelor of Information Technology",
         field: "Computer Science",
-        startYear: "2015",
-        endYear: "2019",
+        startYear: "2019",
+        endYear: "Continue",
     },
 ];
 const connect = [
