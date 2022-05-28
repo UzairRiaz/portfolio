@@ -9,7 +9,7 @@ const Connect = () => {
                 <h2 className="comment">// Connect on Social Media</h2>
                 <h2>
                     <span className="keyword">var </span>
-                    <span className="variable">Connect</span>
+                    <span className="variable">connect</span>
                     <span className="operator"> = </span>
                     <span className="operator">{`{`}</span>
                     <br />

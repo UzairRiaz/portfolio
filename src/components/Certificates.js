@@ -9,7 +9,7 @@ const Certificates = () => {
                 <h2 className="comment">// Certificates</h2>
                 <h2>
                     <span className="keyword">var </span>
-                    <span className="variable">Certificates</span>
+                    <span className="variable">certificates</span>
                     <span className="operator"> = </span>
                     <span className="operator">[</span>
                     {certifications.map((certificate) => <>
