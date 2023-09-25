@@ -16,7 +16,7 @@ const Initialization = () => {
                 </h2>
                 <br />
                 <h2 className="comment">// Initialization</h2>
-                <h2><span className="keyword"> var </span>
+                <h2><span className="keyword"> const </span>
                     <span className="variable"> {entityName} </span>
                     <span className="operator"> = </span>
                     <span className="keyword"> new </span>

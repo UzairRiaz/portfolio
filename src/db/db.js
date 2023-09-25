@@ -41,11 +41,11 @@ const education = [
 ];
 const connect = [
     {
-        name: "LinkedIn",
+        name: "linkedIn",
         url: "https://www.linkedin.com/in/uzairriazpk/",
     },
     {
-        name: "Github",
+        name: "github",
         url: "https://www.github.com/uzairriaz",
     },
 ];
